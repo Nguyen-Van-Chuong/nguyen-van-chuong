@@ -1,4 +1,5 @@
-<!-- Trungquandev -->
+<!-- chuongnguyen -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyen-van-chuong&label=Profile%20views&color=0e75b6&style=flat" alt="nguyen-van-chuong" /> </p>
 <a href="#" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
@@ -45,7 +46,7 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-p><img align="left"
+<img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyen-van-chuong&show_icons=true&locale=en&layout=compact"
         alt="nguyen-van-chuong" /></p>
 
