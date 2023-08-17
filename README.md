@@ -1,4 +1,4 @@
-<!-- chuongnguyen -->
+<h1 align="center">Hi 👋, I'm Chuong Nguyen</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyen-van-chuong&label=Profile%20views&color=0e75b6&style=flat" alt="nguyen-van-chuong" /> </p>
 <a href="#" target="_blank">
   <img src="svg/chuongnguyen.svg" width="1200" alt="chuongnguyen" />
